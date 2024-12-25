@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ptejal
 - 👀 I’m interested in Bioinformatics 
 - 🌱 I’m currently learning Genetics 
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I’m looking to collaborate on Coding for Biologists 
 - 📫 How to reach me -> Ping me
 - 😄 Pronouns: She/Her
 
